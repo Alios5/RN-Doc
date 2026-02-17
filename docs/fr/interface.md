@@ -4,10 +4,10 @@ Découvrez l'interface puissante de RhythmNator Editor.
 
 ## Écran d'accueil
 
-Lorsque vous lancez l'application pour la première fois, vous êtes accueilli par l'écran d'accueil.
-- **Liste des projets** : Visualisez et gérez vos projets existants.
-- **Créer un nouveau projet** : Démarrez un nouveau projet en spécifiant un nom et un fichier audio.
-- **Thèmes** : Cliquez sur l'icône de palette pour basculer entre les 6 thèmes intégrés.
+L'écran d'accueil est votre point de départ. Il vous permet de gérer vos projets et de personnaliser votre environnement via la barre d'outils supérieure (thèmes, raccourcis, polices, langues).
+
+[Consulter les détails de l'interface d'accueil](./interface-home.md)
+
 
 ## L'Éditeur
 

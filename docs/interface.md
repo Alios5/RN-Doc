@@ -4,10 +4,10 @@ Discover the powerful interface of RhythmNator Editor.
 
 ## Home Screen
 
-When you first launch the application, you are greeted with the Home Screen.
-- **Projects List**: View and manage your existing projects.
-- **Create New Project**: Start a fresh project by specifying a name and audio file.
-- **Themes**: Click the palette icon to switch between 6 built-in themes.
+The Home Screen is your starting point. It allows you to manage your projects and customize your environment via the top toolbar (themes, shortcuts, fonts, languages).
+
+[Check out Home Interface details](./interface-home.md)
+
 
 ## The Editor
 
