@@ -23,7 +23,7 @@ La barre supérieure regroupe les informations de projet et les actions globales
 
 ---
 
-## 2. Zone de Travail (Espace de Travail)
+## 2. Zone de Travail (Piste)
 
 La zone de travail est divisée en deux sections principales :
 
@@ -33,6 +33,8 @@ La zone de travail est divisée en deux sections principales :
 1. **Le Visualiseur** : Permet de voir la forme d'onde de la musique pour une précision visuelle lors du placement des notes.
 2. **La Liste des Pistes** : Affiche les différentes pistes créées avec les notes placées à l'intérieur.
 3. **Ligne de Lecture** : Une ligne verticale qui indique précisément où vous vous trouvez dans la musique.
+
+> Pour apprendre à créer et gérer vos pistes, consultez le [Guide : Zone de Travail (Piste)](./guide-sheet.md).
 
 ---
 
