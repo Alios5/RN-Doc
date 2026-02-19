@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     title: "RhythmNator Editor",
     description: "Create and edit rhythmic patterns synchronized with audio tracks.",
-    base: "/RN-Doc/",
+    base: "/",
 
     // Multi-language support
     locales: {
