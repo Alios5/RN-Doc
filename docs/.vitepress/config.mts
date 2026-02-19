@@ -122,7 +122,7 @@ export default defineConfig({
 
 
         footer: {
-            message: 'Released under the MIT License.',
+            message: 'made with ❤️ by Alios5',
             copyright: 'Copyright © 2026 RhythmNator'
         }
     }
