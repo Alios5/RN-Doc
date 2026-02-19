@@ -15,9 +15,6 @@ hero:
     - theme: alt
       text: Get Started
       link: /intro
-    - theme: alt
-      text: GitHub
-      link: https://github.com/Alios5/RN-Editor
 
 features:
   - icon: 🎧
