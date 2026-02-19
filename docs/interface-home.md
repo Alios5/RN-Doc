@@ -1,16 +1,16 @@
 # Interface: Home
 
-The Home Screen is your project hub. This is where you can organize your work, choose your visual environment, and configure your global preferences.
+The home screen is your project management center. This is where you can organize your work, choose your visual environment, and configure your global preferences.
 
-![Home Screen](/images/Home.png)
+![Home Page](/images/Home.png)
 
 ## Overview
 
-The Home interface is divided into several strategic areas:
+The home interface is divided into several strategic areas:
 
-1. **Project Menu (Left)**: Quickly access new project creation, open existing files, or view documentation.
-2. **Recent Projects (Center)**: Find your ongoing work with its location and last modified date.
-3. **Release Notes (Bottom Left)**: Check out the latest software developments directly from the interface.
+1. **Project Menu (Left)**: Quickly access new project creation, opening existing files, or documentation.
+2. **Recent Projects (Center)**: Find your current work with its location and the date of the last modification.
+3. **Update Notes (Bottom Left)**: View the latest software evolutions.
 4. **Global Options (Top Right)**: Personalize your workspace.
 
 ## Top Toolbar
@@ -23,11 +23,11 @@ The palette button opens the **Theme Manager**. RhythmNator offers several built
 ![Theme Manager](/images/Theme%20Menu.png)
 
 ### ⌨️ Keyboard Shortcuts
-The keyboard icon displays the exhaustive list of **Shortcuts**. Using shortcuts is highly recommended to gain efficiency when mapping your music tracks.
+The keyboard icon displays the exhaustive list of **Shortcuts**. Using shortcuts is highly recommended to increase efficiency when mapping your musical tracks.
 
 ![Shortcuts Menu](/images/raccourci.png)
 
-### 🅰️ Fonts
+### 🅰️ Character Font
 This button allows you to change the **Font** used in the editor. You can choose different fonts for titles and body text to optimize your visual comfort.
 
 ![Font Settings](/images/Fonts%20menu.png)
@@ -36,4 +36,3 @@ This button allows you to change the **Font** used in the editor. You can choose
 The globe icon allows you to instantly switch the interface language between **French** and **English**.
 
 ![Language Selector](/images/Language%20menu.png)
-

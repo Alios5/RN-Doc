@@ -121,7 +121,7 @@ export default defineConfig({
         ],
 
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/Alios5/RN-Doc' }
+            { icon: 'github', link: 'https://github.com/Alios5/RN-Editor' }
         ],
 
         footer: {
