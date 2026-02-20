@@ -23,7 +23,7 @@ La barre supérieure regroupe les informations de projet et les actions globales
 
 ---
 
-## 2. Zone de Travail (Piste)
+## 2. Zone de Travail (Espace de Travail)
 
 La zone de travail est divisée en deux sections principales :
 

@@ -48,6 +48,6 @@ Dans la vidéo ci-dessous, nous lions une action nommée "RedNote" et "BlueNote"
 
 ### Résultat dans le Jeu
 
-Une fois le projet exporté et intégré au moteur de jeu, les notes avec l'action "RedNote" et "BlueNote" envoient un signal que le jeu écoute et interprète pour secouer changer la couleur des notes
+Une fois le projet exporté et intégré au moteur de jeu, les notes avec l'action "RedNote" et "BlueNote" envoient un signal que le jeu écoute et interprète pour secouer changer la couleur des notes.
 
 <video src="/videos/action-result.mp4" controls="controls" muted="muted" style="max-height:640px; min-height: 200px"></video>
