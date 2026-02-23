@@ -74,6 +74,9 @@ export default defineConfig({
         search: {
             provider: 'local'
         },
+        socialLinks: [
+            { icon: 'github', link: 'https://github.com/Alios5/RN-Editor' }
+        ],
 
         // Default theme config (English)
         nav: [
